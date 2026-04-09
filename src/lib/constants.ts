@@ -92,17 +92,17 @@ export const EXPERIENCE = [
 
     ],
   },
-  //  {
-  //   company: 'ASCOMS',
-  //   location: 'Jammu, India',
-  //   position: 'Jr.IT & Support Engineer',
-  //   start: '2024 - 2025',
-  //   link: '/',
+   {
+    company: 'ASCOMS',
+    location: 'Jammu, India',
+    position: 'Jr.IT & Support Engineer',
+    start: '2024 - 2025',
+    link: '/',
 
-  //   tasks: [
-  //     'I provided end-to-end support for the Hospital Management System (HMS), ensuring smooth daily operations and timely resolution of user issues.'
-  //     'I diagnosed and troubleshot system, network, and performance-related problems, which helped improve overall system efficiency and reduce downtime.'
-  //     'Additionally, I assisted in designing and optimizing data models to enhance data organization, improve retrieval speed, and boost overall application performance.'
-  //   ],
-  // },
+   tasks: [
+  'I provided end-to-end support for the Hospital Management System (HMS), ensuring smooth daily operations and timely resolution of user issues.',
+  'I diagnosed and troubleshot system, network, and performance-related problems, which helped improve overall system efficiency and reduce downtime.',
+  'Additionally, I assisted in designing and optimizing data models to enhance data organization, improve retrieval speed, and boost overall application performance.',
+],
+  },
 ]
