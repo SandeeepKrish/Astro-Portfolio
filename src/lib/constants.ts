@@ -80,7 +80,7 @@ export const EXPERIENCE = [
     company: 'TWENTYFIVE TECHNOARTS',
     location: 'Jammu, India',
     position: 'Software Development Engineer',
-    start: '2024 - 2025',
+    start: '2025 - 2026',
     link: 'https://www.facebook.com/25Technoarts/',
 
     tasks: [
@@ -90,6 +90,19 @@ export const EXPERIENCE = [
       'Architected and maintained robust databases using MongoDB, designing scalable data models, efficient indexing, and aggregation pipelines to support AI analytics and real-time data processing.',
       'Integrated AI services within a modern frontend ecosystem built on React and Tailwind CSS, delivering a seamless, responsive user experience and enabling smooth interaction with machine learning components through well-structured REST endpoints.'
 
+    ],
+  },
+   {
+    company: 'ASCOMS',
+    location: 'Jammu, India',
+    position: 'Jr.IT & Support Engineer',
+    start: '2024 - 2025',
+    link: '/',
+
+    tasks: [
+      'I provided end-to-end support for the Hospital Management System (HMS), ensuring smooth daily operations and timely resolution of user issues.'
+      'I diagnosed and troubleshot system, network, and performance-related problems, which helped improve overall system efficiency and reduce downtime.'
+      'Additionally, I assisted in designing and optimizing data models to enhance data organization, improve retrieval speed, and boost overall application performance.'
     ],
   },
 ]
